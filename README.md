@@ -10,8 +10,8 @@ https://github.com/airbnb/lottie-android
 
 預覽
 --------
-![image](https://i.imgur.com/AfMAVm1.jpg)                                      
+![image](https://i.imgur.com/XcDqyWB.jpg)                                      
 
-![image](https://i.imgur.com/uudRFeN.jpg)                                      
+![image](https://i.imgur.com/lw5QqdJ.jpg)                                      
 
 
